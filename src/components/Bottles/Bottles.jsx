@@ -18,7 +18,7 @@ const Bottles = () => {
 
     // Load cart from local storage
     useEffect(()=>{
-        console.log(bottles.length);
+        // console.log(bottles.length);
         if(bottles.length){
             const storedCart = getStoredCart()
             // console.log(storedCart, bottles);
