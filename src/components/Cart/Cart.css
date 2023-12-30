@@ -1,0 +1,7 @@
+.cart img{
+    width: 100px;
+    margin-right: 6px;
+}
+.cart{
+    display: flex;
+}
