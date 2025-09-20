@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "water-bottle-react",
+=======
   "name": "water-bottle-react-practice",
+>>>>>>> 0aac9f56b5010ac727b39a2e723b9dcc892d999f
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +14,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+    "prop-types": "^15.8.1",
+=======
+>>>>>>> 0aac9f56b5010ac727b39a2e723b9dcc892d999f
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

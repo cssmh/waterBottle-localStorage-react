@@ -1,7 +1,12 @@
 .cart img{
+<<<<<<< HEAD
+    width: 80px;
+    margin-right: 2px;
+=======
     width: 100px;
     margin-right: 6px;
 }
 .cart{
     display: flex;
+>>>>>>> 0aac9f56b5010ac727b39a2e723b9dcc892d999f
 }

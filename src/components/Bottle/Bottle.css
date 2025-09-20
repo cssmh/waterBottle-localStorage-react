@@ -1,8 +1,16 @@
 .bottle{
     border: 2px solid purple;
+<<<<<<< HEAD
+    border-radius: 12px;
+    padding-bottom: 10px;
+}
+.bottle img{
+    width: 200px;
+=======
     border-radius: 14px;
     padding-bottom: 10px;
 }
 .bottle img{
     width: 220px;
+>>>>>>> 0aac9f56b5010ac727b39a2e723b9dcc892d999f
 }
