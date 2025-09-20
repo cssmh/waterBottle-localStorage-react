@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .bottle-container{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 13px;
+=======
+.bottles{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+>>>>>>> 0aac9f56b5010ac727b39a2e723b9dcc892d999f
 }
